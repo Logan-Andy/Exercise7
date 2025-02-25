@@ -1,3 +1,6 @@
+//Logan Andy
+//Exercise 7
+//2/25/2025
 public class Main {
     public static void main(String[] args) {
         ContactInfo contactInfo1 = new ContactInfo("Logan", "awesomejandy@gmail.com");
